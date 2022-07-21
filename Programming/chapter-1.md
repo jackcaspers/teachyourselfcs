@@ -27,3 +27,7 @@ Every language has 3 mechanisms for accomplishing complex ideas
 * Procedural abstraction, local name(local var)
 * block structure, lexical scoping
 
+
+## 1.2 Procedures and the Processes they Generate
+* 
+
