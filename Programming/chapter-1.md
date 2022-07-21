@@ -28,6 +28,26 @@ Every language has 3 mechanisms for accomplishing complex ideas
 * block structure, lexical scoping
 
 
-## 1.2 Procedures and the Processes they Generate
+# 1.2 Procedures and the Processes they Generate
+
+## 1.2.1
+* Deferred operations (recursive process)
+* Linear recursive process
+* iteravie process, state variables, linear iterative process
+* inc (+ 3 5)
+
+## 1.2.2 Tree Recursion
 * 
 
+fib 5
+fib-iter 1 0 5
+
+fib-iter (+ 1 0) 1 4
+fib-iter (+ 1 1) 1 3
+fib iter (+ 2 1) 2 2
+
+## 1.2.3 Orders of Growth
+* order of growth to obtain a gross measure of the resources required by a process as the inputs become larger
+
+## 1.2.4 Exponentiation 
+* Euclid's Algorithm
