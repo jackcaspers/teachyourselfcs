@@ -52,3 +52,6 @@ fib iter (+ 2 1) 2 2
 ## 1.2.4 Exponentiation 
 * Euclid's Algorithm
 * Square
+
+
+# 1.3 Higher-Order Functions
