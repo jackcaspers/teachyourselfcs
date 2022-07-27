@@ -57,3 +57,6 @@ fib iter (+ 2 1) 2 2
 # 1.3 Higher-Order Functions
 * Ability to accept procedures as argument or return procedures from a procedure
 * Presence of common pattern is strong evidence that there is a useful abstraction waiting. Mathematics expressed this as summation of a series. Sigma notation
+
+## 1.3.2 Construcitng Procedures using lambda
+* 
