@@ -59,4 +59,5 @@ fib iter (+ 2 1) 2 2
 * Presence of common pattern is strong evidence that there is a useful abstraction waiting. Mathematics expressed this as summation of a series. Sigma notation
 
 ## 1.3.2 Construcitng Procedures using lambda
-* 
+* lambda define "the procedure known as x"
+* `let` is used for to include local variables
