@@ -61,3 +61,6 @@ fib iter (+ 2 1) 2 2
 ## 1.3.2 Construcitng Procedures using lambda
 * lambda define "the procedure known as x"
 * `let` is used for to include local variables
+
+## 1.3.3 Procedures as General Methods
+* 
