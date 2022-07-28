@@ -63,4 +63,13 @@ fib iter (+ 2 1) 2 2
 * `let` is used for to include local variables
 
 ## 1.3.3 Procedures as General Methods
-* 
+* General methods of computation independent of the particular functions involved
+
+## 1.3.4 Procedures as Returned Values
+* We can have proceduers that return a procedure which can be used
+
+First Class Elements
+* The may be named by variables
+* They may be passed as arguments to procedures
+* They may be returned as the results of procedures
+* They may be included in data structures
